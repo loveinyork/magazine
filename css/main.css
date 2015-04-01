@@ -100,7 +100,10 @@ html {
 
 
 
-
+* img {
+    max-width: 100%;
+    height: auto;
+}
 
 .left-column {
     margin-top: -80px;
