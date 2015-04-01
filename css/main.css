@@ -412,16 +412,13 @@ blockquote span {
 
 .credit {
     clear: both;
-    margin-top: 10px;
     text-align: left;
-    
-   float:left;
+    float:left;
 }
 
 .credit p{
     font-size: 10px;
-    margin-top: 32px;
-    font-weight: lighter;
+     font-weight: lighter;
     font-family: 'Libre Baskerville', serif;
    
 
