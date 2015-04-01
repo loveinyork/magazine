@@ -416,11 +416,11 @@ blockquote span {
     float:left;
 }
 
-.credit p{
+.credit p {
     font-size: 10px;
     font-weight: lighter;
     font-family: 'Libre Baskerville', serif;
-    margin-left: 3px;
+    margin-left: 5px;
    
 
 }
