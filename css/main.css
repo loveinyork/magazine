@@ -253,12 +253,14 @@ html {
     width: 25%;
     text-align: justify;
     
+
+    
 }
 
 .site-side p {
 
     width: 260px;
-    margin-top: 42px;
+    margin-top: 19px;
     font-family: 'Libre Baskerville', serif;
    font-weight: lighter; 
 }
@@ -309,6 +311,7 @@ html {
     width: 50%;
     padding-right: 35px;
     text-align: justify;
+   
 
 }
 
@@ -318,6 +321,7 @@ html {
    font-weight: lighter; 
    border-right: thin solid #000000;
    padding-right: 35px;
+
 }
 
 
@@ -334,6 +338,7 @@ html {
 .right p {
     border-right: thin solid #000000;
    padding-right: 35px;
+
 }
 
 
@@ -406,15 +411,16 @@ blockquote span {
     }
 
 .credit {
-    
+    clear: both;
+    margin-top: 10px;
     text-align: left;
     
-   float: left; 
+   float:left;
 }
 
 .credit p{
     font-size: 10px;
-    margin-top: 20px;
+    margin-top: 32px;
     font-weight: lighter;
     font-family: 'Libre Baskerville', serif;
    
